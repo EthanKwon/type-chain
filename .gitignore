@@ -1,0 +1,7 @@
+# Yarn Integerity file
+.yarn-integerity
+
+#detenv environment variables file
+
+.env
+dist
